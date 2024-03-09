@@ -1,4 +1,4 @@
-Time Coded =>[![wakatime](https://wakatime.com/badge/user/018c87a7-9464-4f1d-9d43-0f7d5e372da1.svg)](https://wakatime.com/@018c87a7-9464-4f1d-9d43-0f7d5e372da1)
+[![wakatime](https://wakatime.com/badge/user/018c87a7-9464-4f1d-9d43-0f7d5e372da1.svg)](https://wakatime.com/@018c87a7-9464-4f1d-9d43-0f7d5e372da1)
 - 👋 Hi, I’m @Roshan-Kaveri
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Btech Information Technologyhttps://wakatime.com/badge/user/018c87a7-9464-4f1d-9d43-0f7d5e372da1.svg
