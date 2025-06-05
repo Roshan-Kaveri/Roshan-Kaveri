@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/018c87a7-9464-4f1d-9d43-0f7d5e372da1.svg)](https://wakatime.com/@018c87a7-9464-4f1d-9d43-0f7d5e372da1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-k-kumar) 
+[![wakatime](https://wakatime.com/badge/user/018c87a7-9464-4f1d-9d43-0f7d5e372da1.svg)](https://wakatime.com/@018c87a7-9464-4f1d-9d43-0f7d5e372da1) 
 
 # 💫 About Me:
 👋 Hi, I’m @Roshan-Kaveri<br>👀 I’m interested in coding<br>🌱 I’m currently learning Btech Information Technology<br>💞️ I’m looking to collaborate on stuff related to coding<br>📫 How to reach me Mail<br>😄 Pronouns: He / Him 
